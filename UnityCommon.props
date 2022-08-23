@@ -1,0 +1,6 @@
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectName>Passion Punch Shooter</ProjectName>
+    <ScriptingBackend>mono</ScriptingBackend>
+  </PropertyGroup>
+</Project>
