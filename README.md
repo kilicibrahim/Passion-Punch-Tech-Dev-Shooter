@@ -1,4 +1,4 @@
-# Passion Punch Tech Dev Schooter
+# Passion Punch Tech Dev Shooter
 23/08
 
 1 day project
